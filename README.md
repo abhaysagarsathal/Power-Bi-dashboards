@@ -26,7 +26,7 @@
 
 ## Page 1:High-Level Market View
 
-![Page 1](Images\page1.png)
+![Page 1](Images/page1.png)
 
 #### This is the main page of the dashboard.It gives clear insights on each job.
 
