@@ -30,7 +30,7 @@
 
 #### This is the main page of the dashboard.It gives clear insights on each job.
 
-![Page ](Images\page2.png)
+![Page ](Images/page2.png)
 
 #### This is contains more info of the selected job using drill through method.
 
